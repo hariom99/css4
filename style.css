@@ -1,0 +1,208 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.heading {
+    background-image: linear-gradient(to right, red 2px,rgba(131, 10, 10, 0.404),rgba(54, 143, 54, 0.767),rgba(248, 248, 12, 0.651));
+    align-items: center;
+    text-align: center;
+}
+.header{
+    list-style-position: inside;
+    border: 7px solid red;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background-color: #ADD8E6;
+    margin-left: 163px;
+    margin-right: 183px;
+    margin-top: 22px;
+    border-radius: 25px;
+}
+
+
+.heading2 {
+    background-image: linear-gradient(to right, rgb(253, 0, 0),yellow, red);
+    align-items: center;
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+.container
+{
+    background-color: aqua;
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-around;
+}
+
+
+.textp
+{
+    margin:5px;
+    font-weight: bolder;
+    color: black;
+}
+.card {
+  
+    margin-top:30px;
+    width: 401px;
+    height: 144px;
+    border-radius: 20px;
+    border: 2px solid grey;
+
+
+    text-align: center;
+    color:white;
+    background-color: #2cbeeb;
+    font-family: "Source Sans Pro", "Arial", sans-serif;
+    }
+
+
+.border{
+    margin-top: 40px;
+    border: 6px solid red;
+    border-radius: 30px;
+    background-color: yellowgreen;
+}
+.card12 {
+    border: 3px solid red;
+    height: 171px;
+    width: 263px;
+    border-radius: 30px;
+    background-color:yellow;
+  
+}
+.card13 {
+    border: 3px solid red;
+    height: 179px;
+    border-radius: 30px;
+    width: 262px;
+    background-color:yellow;
+    }
+.card14 {
+    border: 3px solid red;
+    height: 179px;
+    width: 262px;
+    border-radius: 30px;
+   
+    background-color:yellow;
+   
+}
+
+.card15 {
+    border: 3px solid red;
+    height: 171px;
+    width: 263px;
+    border-radius: 30px;
+   
+    background-color:yellow;
+}
+
+.second{
+    padding-top:70px;
+    background-image: radial-gradient(  blue,rgb(70, 159, 165),green);
+    display: flex;
+    justify-content: space-around;
+    border: 3px solid black;
+    margin-top: 26px;
+    padding-bottom: 70px;
+}
+
+.heading2{
+    height: 55px;
+}
+
+.txt-cntr
+
+{
+    text-align: center;
+}
+
+
+.career
+{
+    background-color: rgb(238, 36, 36);
+    margin-top: 30px;
+    height: 40px;
+}
+.text{
+  text-align: center;
+  font-weight: bold;
+  font-size: 30px;
+  color: aliceblue;
+}
+
+.data
+{
+    margin-top: 10px;
+    margin-right: 63px;
+    display: inline-block;
+    width: 300px;
+    /* border: 2px solid black; */
+
+}
+.data1
+{
+    width: 400px;
+    padding: 5px;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: rgb(54, 233, 54);
+}
+.data2
+{
+    padding: 5px;
+    width: 400px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: rgb(39, 164, 196);
+}
+.data3
+{
+    margin-top: 50px;
+    padding: 5px;
+    text-align: left;
+    width: 400px;
+    color: white;
+    font-size: 28px;
+    font-weight: bold;
+    background-color: rgb(66, 26, 177);
+}
+
+.paradown
+{
+    width: 90%;
+    text-align: left;
+    margin-top: 40px;
+    background-color: #FEA501;
+    font-size: x-large;
+}
+.lefttable
+{
+    background-color: rgb(29, 25, 25);
+    color: blanchedalmond;
+    position: absolute;
+    margin-left: 1400px;
+    margin-top: -250px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.t
+{
+    text-decoration: underline;
+}
+.last
+{
+    margin-top: 30px;
+    padding-bottom: 10px;
+    background-color: rgb(16, 111, 114);
+    font-weight: bolder;
+    font-size: 30px;
+    text-align: center;
+}
